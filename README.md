@@ -43,7 +43,7 @@ This repo contains my practice solutions to problems covering various data struc
 
 ## 🔗 Useful Links
 
-- [My LeetCode Profile](#priyaaa_gupta7)
+- [My LeetCode Profile](https://leetcode.com/u/priyaaa_gupta7/)
 
 ---
 
